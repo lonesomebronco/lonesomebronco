@@ -68,6 +68,6 @@ I am actively looking for opportunities to collaborate on projects involving Sof
 - 📧 **Email**: [vs1654@g.rit.edu](mailto:vs1654@g.rit.edu)
 - 📞 **Phone**: (585) 290-2916
 - 💻 **LinkedIn**: [linkedin.com/in/vaibhavsharmaconnect](https://www.linkedin.com/in/vaibhavsharmaconnect/)
-- 🍴 **PortFolio**: [portfolio]([https://www.codechef.com/users/lonesomebronco](https://lonesomebronco.github.io/portfolio/))
+- 🍴 **PortFolio**: [portfolio]([lonesomebronco.github.io/portfolio/](https://lonesomebronco.github.io/portfolio/))
 
 Feel free to contact me if you have exciting projects or opportunities. Let's create something amazing together! 🚀
