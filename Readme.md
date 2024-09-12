@@ -14,6 +14,12 @@ As a passionate learner and detail-oriented individual, I thrive in environments
 
 ## Experience
 
+### Software Development Co-op
+**Rochester Regional Health**  
+_June 2024 - Present_
+- Designing and developing a responsive web application using React for automating nurse competency approval, streamlining manual processes, improving nurse eﬀiciency, and decoupling nurse-supervisor interactions.
+- The app will be utilized by 5000+ nurses across 12 hospitals, saving 20+ hours and 120 pages per nurse.
+
 ### Teaching Assistant -> Advanced Object-Oriented Programming (using Java)
 **Rochester Institute of Technology, NY, USA**  
 _Aug 2023 - Present_
@@ -22,7 +28,7 @@ _Aug 2023 - Present_
 
 ### Graduate Assistant
 **Rochester Institute of Technology, NY, USA**  
-_Aug 2023 - Present_
+_Aug 2023 - June 2024_
 - Evaluated and analyzed data for MCAS & DDI Tutoring, achieving a 30% improvement in program effectiveness, while overseeing a team of 10+ peer tutoring leaders to increase student engagement by 25%.
 - Collaborated on team-building activities, resulting in a 100% increase in participation in the Peer Course Consultant program.
 
